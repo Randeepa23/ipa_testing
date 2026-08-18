@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029551122357",
+    "project_id": "humansupport-a63fa",
+    "storage_bucket": "humansupport-a63fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029551122357:android:0e0ce4b0996f0c691e5bfc",
+        "android_client_info": {
+          "package_name": "com.srilankarentacar.supporthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-Ax_8e1Z337vSCh0KWLylISmiVoVfPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
