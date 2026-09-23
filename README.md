@@ -16,17 +16,6 @@ dart run build_runner build --delete-conflicting-outputs
 --dart-define=WEBSOCKET_URL=wss://your-api-domain.com/ws/support
 ```
 
-Temporary development font fallback:
-
-```bash
---dart-define=USE_FONT_FALLBACK=true
-```
-
-Georgia font files:
-
-- `assets/fonts/georgia_regular.ttf`
-- `assets/fonts/georgia_bold.ttf`
-
 ## Run
 
 ```bash
@@ -48,14 +37,6 @@ Debug APK:
 
 ```bash
 flutter build apk --debug
-```
-
-Release APK:
-
-```bash
-flutter build apk --release \
-  --dart-define=API_BASE_URL=https://your-api-domain.com/ \
-  --dart-define=WEBSOCKET_URL=wss://your-api-domain.com/ws/support
 ```
 
 Android App Bundle:
